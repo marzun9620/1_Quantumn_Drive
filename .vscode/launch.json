@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "m:/1_Quantumn_Drive/DSA",
-      "program": "m:/1_Quantumn_Drive/DSA/build/Debug/outDebug",
+      "cwd": "m:/1_Quantumn_Drive/LightOj",
+      "program": "m:/1_Quantumn_Drive/LightOj/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
